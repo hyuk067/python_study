@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3ce6999-6b51-4723-97c2-a62ec32acb8f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/week_5/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_5/naver_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_5/naver_movie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_5/news.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_5/sele.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python_study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_study.iml" afterDir="false" />
+    <list default="true" id="d3ce6999-6b51-4723-97c2-a62ec32acb8f" name="Default Changelist" comment="save">
+      <change afterPath="$PROJECT_DIR$/week_7/GAME.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_7/Q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_7/Q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_7/naver_moive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_7/naver_news.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_8/board.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_8/board_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_8/board_res.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_8/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_8/login_res.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_8/mysql_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_8/mysql_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_8/naver_movie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_8/sch_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_4/lotto.py" beforeDir="false" afterPath="$PROJECT_DIR$/week_4/lotto.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +27,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -27,11 +35,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ahdEGsMFpYfrXCKCX3eutiDdTW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -43,19 +55,19 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.naver_movie">
-    <configuration name="lotto" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mysql_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\kartp\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_4" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_8" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_4/lotto.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_8/mysql_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -64,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="naver_login" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mysql_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,11 +84,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_5/naver_login.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_8/mysql_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="naver_moive" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_7/naver_moive.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,11 +126,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_5/naver_movie.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_8/naver_movie.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sele" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sch_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,11 +147,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_5/sele.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_8/sch_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,9 +163,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.naver_movie" />
-        <item itemvalue="Python.sele" />
-        <item itemvalue="Python.naver_login" />
-        <item itemvalue="Python.lotto" />
+        <item itemvalue="Python.sch_test" />
+        <item itemvalue="Python.naver_moive" />
+        <item itemvalue="Python.mysql_2" />
+        <item itemvalue="Python.mysql_1" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587193417009</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="save">
+      <created>1587908835221</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587908835221</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -162,53 +203,62 @@
     <option name="LAST_COMMIT_MESSAGE" value="save" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2612" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587897279977">
+    <state x="2612" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587910401066">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2612" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587897279977" />
+    <state x="2612" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587910401066" />
     <state x="2586" y="111" key="#lotto" timestamp="1587894141637">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2586" y="111" key="#lotto/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587894141637" />
-    <state x="2497" y="81" key="CommitChangelistDialog2" timestamp="1587193416331">
+    <state x="2497" y="81" key="CommitChangelistDialog2" timestamp="1587910936637">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2497" y="81" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587193416331" />
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1587900708540">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="2497" y="81" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587910936637" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1591445505445">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587900708540" />
-    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1587900708540">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591445505445" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591431532539" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1591445505444">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587900708540" />
-    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1587900708540">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591445505444" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591431532539" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1591445505444">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587900708540" />
-    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1587900708540">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591445505444" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591431532539" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1591445505444">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587900708540" />
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1587900502821">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591445505444" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591431532539" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1589298778284">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587900502821" />
-    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1587900502821">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589298778284" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589202479097" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1589298778284">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587900502821" />
-    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1587900502821">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589298778284" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589202479097" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1589298778284">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587900502821" />
-    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1587900502821">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589298778284" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589202479097" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1589298778284">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587900502821" />
-    <state x="2381" y="164" key="SettingsEditor" timestamp="1587896632713">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589298778284" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589202479097" />
+    <state x="450" y="274" key="SettingsEditor" timestamp="1590816693281">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="450" y="274" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590816693281" />
     <state x="2381" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587896632713" />
     <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1587193419899">
       <screen x="1920" y="0" width="1920" height="1040" />
